@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957019063106",
+    "project_id": "movieportfolio-af3e8",
+    "storage_bucket": "movieportfolio-af3e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957019063106:android:8136a93baef60ac313bedb",
+        "android_client_info": {
+          "package_name": "portfolio.jjs.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957019063106-sl898ockd9t0a6f83hufmgeee38hjp5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "portfolio.jjs.movie",
+            "certificate_hash": "7bbb441eeda7c17d4df0df667a07226d266e661b"
+          }
+        },
+        {
+          "client_id": "957019063106-18571uoghe6sf7tmngs7uol8ujag0j04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_VI6LGHCzw2lOiNLj4ACzEjvIu3EhJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957019063106-18571uoghe6sf7tmngs7uol8ujag0j04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

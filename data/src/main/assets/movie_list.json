@@ -1,0 +1,56 @@
+[
+  {
+    "movieId": "1",
+    "movieName": "영화1",
+    "characters": ["인물1", "인물2", "인물3"],
+    "imageUrl": "https://picsum.photos/id/1/200/300",
+    "summary": "영화 내용1",
+    "time": "2시간 2분",
+    "filmRatings": "12세이상관람가"
+  },
+  {
+    "movieId": "2",
+    "movieName": "영화2",
+    "characters": ["인물1", "인물2", "인물3"],
+    "imageUrl": "https://picsum.photos/id/10/200/300",
+    "summary": "영화 내용2",
+    "time": "1시간 40분",
+    "filmRatings": "15세이상관람가"
+  },
+  {
+    "movieId": "3",
+    "movieName": "영화3",
+    "characters": ["인물1", "인물2", "인물3"],
+    "imageUrl": "https://picsum.photos/id/20/200/300",
+    "summary": "영화 내용3",
+    "time": "1시간 50분",
+    "filmRatings": "15세이상관람가"
+  },
+  {
+    "movieId": "4",
+    "movieName": "영화4",
+    "characters": ["인물1", "인물2", "인물3"],
+    "imageUrl": "https://picsum.photos/id/30/200/300",
+    "summary": "영화 내용4",
+    "time": "2시간",
+    "filmRatings": "19세이상관람가"
+  },
+  {
+    "movieId": "5",
+    "movieName": "영화5",
+    "characters": ["인물1", "인물2", "인물3"],
+    "imageUrl": "https://picsum.photos/id/40/200/300",
+    "summary": "영화 내용5",
+    "time": "2시간 10분",
+    "filmRatings": "12세이상관람가"
+  },
+  {
+    "movieId": "6",
+    "movieName": "영화6",
+    "characters": ["인물1", "인물2", "인물3"],
+    "imageUrl": "https://picsum.photos/id/50/200/300",
+    "summary": "영화 내용6",
+    "time": "2시간 30분",
+    "filmRatings": "15세이상관람가"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "bannerId": "1",
+    "imageurl": "https://picsum.photos/id/100/300/200",
+    "movieName": "개봉예정영화1"
+  },
+  {
+    "bannerId": "2",
+    "imageurl": "https://picsum.photos/id/110/300/200",
+    "movieName": "개봉예정영화2"
+  },
+  {
+    "bannerId": "3",
+    "imageurl": "https://picsum.photos/id/121/300/200",
+    "movieName": "개봉예정영화3"
+  }
+]
