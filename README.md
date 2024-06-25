@@ -7,7 +7,7 @@
  - 영화 정보를 알수있고 댓글이나 평점을 남길수 있는 앱
 
 skill
- - Kotlin, Room, Compose, Navigation Component, Databinding, hilt, Coroutines, ViewModel
+ - Kotlin, Room, Compose, Navigation Component, Databinding, hilt, Coroutines, ViewModel, Firebase
 
 포트폴리오를 만들면서...
  - 예매 기능을 넣어보고싶었지만 이 기능은 백앤드가 필요할것같아 넣지못한 아쉬움이 있습니다.
