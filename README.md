@@ -1,3 +1,4 @@
+<img src="https://github.com/wlstjr1123/MoviePortfolio/assets/39479766/899f001c-0439-475f-ba45-6e8647d658b6  width="200" height="400"/>
 ![Screenshot_20240625-140233_MoviePortfolio](https://github.com/wlstjr1123/MoviePortfolio/assets/39479766/899f001c-0439-475f-ba45-6e8647d658b6)
 ![Screenshot_20240625-140236_MoviePortfolio](https://github.com/wlstjr1123/MoviePortfolio/assets/39479766/5aea91f7-6535-443e-88cf-38aa60c60ae3)
 ![Screenshot_20240625-140241_MoviePortfolio](https://github.com/wlstjr1123/MoviePortfolio/assets/39479766/3bd33bad-c17c-4c8f-b1b9-73b8cfe86a0a)
